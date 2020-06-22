@@ -21,7 +21,7 @@ balaji_kukkala@HSL012780 MINGW64 /d/Git/GitTestQEStack
 $ git config --global user.email "balaji_kukkala@persistent.com"
 
 balaji_kukkala@HSL012780 MINGW64 /d/Git/GitTestQEStack
-$ git config --list
+$ git config --listvvvvvvvvvvvvvvvvvv
 
 ++++++++++++++++++++++++++
 
